@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1271444285 source:f:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1271444285 f:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1271444285 source:f:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1271444320 source:e:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1271444285 e:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1271444285 source:e:\bts iris\btsiris-2009\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1271444320 source:h:\bts iris\btsiris-2010\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1271444285 h:\bts iris\btsiris-2010\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1271444285 source:h:\bts iris\btsiris-2010\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1271444320 source:g:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1271444285 g:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1271444285 source:g:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1271444320 source:e:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1337068273 e:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1337068273 source:e:\bts iris\btsiris-2011\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1368434384 source:e:\bts iris\btsiris-2012\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1368434384 e:\bts iris\btsiris-2012\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1368517559 source:e:\bts iris\btsiris-2012\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1368517559 source:h:\perso\bts iris\btsiris-2013\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1368434384 h:\perso\bts iris\btsiris-2013\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1368434384 source:h:\perso\bts iris\btsiris-2013\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1368517559 source:h:\perso\bts sn\btssn-2015\cours\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1410415718 h:\perso\bts sn\btssn-2015\cours\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1410415691 source:h:\perso\bts sn\btssn-2015\cours\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1514048080 source:i:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1442904016 i:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1513840078 source:i:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
+1515500865 source:g:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\main.cpp
+	<iostream>
+	"PointGPS.h"
+
+1515500596 g:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\pointgps.h
+
+1514048103 source:g:\perso\bts sn\btssn-2017\cours\programmation_objet\langage_c++\tp\tp3\pointgps\pointgps.cpp
+	"PointGPS.h"
+	<iostream>
+	<string.h>
+
